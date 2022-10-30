@@ -23,7 +23,7 @@
 
 - :telescope: I'm studying Computer Science at Universidade de Aveiro.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Linux enthusiast (Btw I use EndeavourOS)
 
 - :zap: In my free time, I enjoy reading a good book.
 
