@@ -19,7 +19,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 - :telescope: I'm studying Computer Science at Universidade de Aveiro.
 
