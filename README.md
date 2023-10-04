@@ -37,11 +37,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" title="AngularJS" **alt="AngularJS" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afarturc&theme=vue)](https://git.io/readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afarturc&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
