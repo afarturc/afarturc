@@ -14,8 +14,6 @@
 
 ### :man_technologist: About Me :
 
-- 🎓 I'm studying Software Engineering at Universidade de Aveiro.
-
 - 📫 How to reach me: art.afo@ua.pt
 
 ---
