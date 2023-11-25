@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
-- 📫 How to reach me: art.afo@ua.pt
+- 📫 How to reach me: art.afo@outlook.pt
 
 ---
 
